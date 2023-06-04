@@ -42,7 +42,10 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+#- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- `S. X. Wei`, B. X. Zhang and W. Yi, “The Trajectory PHD and CPHD Filters with Unknown Detection Profile, ” *IEEE Trans. Veh. Technol., pp. 8042-8058, 2022*. 
+- `S. X. Wei`, Á. García-Fernández and W. Yi, “The Trajectory PHD Filter for Coexisting Point and Extended Target Tracking,” *.IEEE Trans. Aerosp. Electron. Syst., 2022.* (Under Review). (https://arxiv.org/pdf/2210.03412.pdf)
+- `S. X. Wei`, B. X. Zhang and W. Yi, “Multi-target Joint Tracking and Classification Using Trajectory PHD Filter,” *24th International Conference on Information Fusion (Fusion), pp. 1-8, 2021*. 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
