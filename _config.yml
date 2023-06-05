@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shaoxiu's HomePage"
+title                    : "Shaoxiu Wei's HomePage"
 description              : "Incoming PhD Student"
 repository               : "Alrid/Alrid.github.io"
 google_scholar_stats_use_cdn : true
