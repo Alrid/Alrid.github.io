@@ -48,8 +48,8 @@ My research interest includes statistical signal processing, Bayesian decision t
 - MIMO-OFDM Traffic Scenario Sensing.
 
 - Group Target Tracking in Campus.
-<img src='images/Group_tracking_result.png' alt="sym" width="50%"></div></div>
-<img src='images/Group_tracking_CFAR.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'></div><img src='images/Group_tracking_result.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'></div><img src='images/Group_tracking_CFAR.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Radar Waveform Design.
